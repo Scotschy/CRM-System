@@ -1,0 +1,1 @@
+[23-Dec-2022 09:29:26 Asia/Dili] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/explseil/panel.vlblum.de/modules/warehouse/third_party/excel/PHPExcel/ReferenceHelper.php on line 884
